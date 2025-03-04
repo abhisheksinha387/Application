@@ -1,3 +1,2 @@
-Application Developer B
-Application Adding story fro developer A
+Application Developer B Application Adding story from developer A
 
